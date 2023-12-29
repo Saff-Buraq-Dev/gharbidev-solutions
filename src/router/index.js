@@ -13,7 +13,7 @@ const routes = [
 ];
 
 const router = createRouter({
-  mode: 'history',
+  mode: "history",
   history: createWebHistory(),
   linkExactActiveClass: "active",
   routes,
@@ -24,11 +24,11 @@ const router = createRouter({
     if (to.hash) {
       return {
         el: to.hash,
-        behavior: "smooth",
+        behavior: "smooth"
       };
     }
     return { x: 0, y: 0, behavior: "smooth" };
-  },
+  }
 });
 
 export default router;

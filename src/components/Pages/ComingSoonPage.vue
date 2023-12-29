@@ -40,14 +40,14 @@
 
 <script>
 export default {
-  name: 'ComingSoonPage',
+  name: "ComingSoonPage",
   data() {
     return {
-      days: '',
-      hours: '',
-      minutes: '',
-      seconds: ''
-    }
+      days: "",
+      hours: "",
+      minutes: "",
+      seconds: ""
+    };
   },
   created() { // Turn data into viewable values
     setInterval(() => {
@@ -56,12 +56,12 @@ export default {
   },
   methods: {
     commingSoonTime() {
-      let endTime = new Date("January 8, 2024 17:00:00 PDT");
-      let endTimeParse = (Date.parse(endTime)) / 1000;
-      let now = new Date();
-      let nowParse = (Date.parse(now) / 1000);
-      let timeLeft = endTimeParse - nowParse;
-      let days = Math.floor(timeLeft / 86400);
+      const endTime = new Date("January 8, 2024 17:00:00 PDT");
+      const endTimeParse = (Date.parse(endTime)) / 1000;
+      const now = new Date();
+      const nowParse = (Date.parse(now) / 1000);
+      const timeLeft = endTimeParse - nowParse;
+      const days = Math.floor(timeLeft / 86400);
       let hours = Math.floor((timeLeft - (days * 86400)) / 3600);
       let minutes = Math.floor((timeLeft - (days * 86400) - (hours * 3600)) / 60);
       let seconds = Math.floor((timeLeft - (days * 86400) - (hours * 3600) - (minutes * 60)));
@@ -74,5 +74,5 @@ export default {
       this.seconds = seconds;
     }
   }
-}
+};
 </script>
