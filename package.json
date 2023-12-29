@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "npx vite build",
     "preview": "vite preview",
     "lint": "eslint --ext .js,.vue src"
   },
@@ -21,7 +21,8 @@
     "quasar": "^2.14.1",
     "vue": "^3.3.13",
     "vue-router": "^4.2.5",
-    "vue3-carousel": "^0.3.1"
+    "vue3-carousel": "^0.3.1",
+    "vite": "^5.0.0"
   },
   "devDependencies": {
     "@quasar/vite-plugin": "^1.6.0",
