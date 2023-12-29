@@ -11,10 +11,10 @@
             <div class="icon">
               <img src="../../assets/images/icon/icon5.png" alt="icon">
             </div>
-            <h3><router-link to="/">Innovative Technology</router-link></h3>
+            <h3><router-link to="/coming-soon">Innovative Technology</router-link></h3>
             <p>Our team pioneers cutting-edge solutions, ensuring GharbiDev stays at the forefront of technology
             </p>
-            <router-link to="/" class="link-btn">
+            <router-link to="/coming-soon" class="link-btn">
               Learn More
               <i class="ph-caret-right"></i>
             </router-link>
@@ -25,10 +25,10 @@
             <div class="icon">
               <img src="../../assets/images/icon/icon6.png" alt="icon">
             </div>
-            <h3><router-link to="/">Cloud Migration</router-link></h3>
+            <h3><router-link to="/coming-soon">Cloud Migration</router-link></h3>
             <p>Seamlessly transitioning your operations to the cloud, enhancing flexibility, scalability, and
               cost-efficiency of your IT infrastructure</p>
-            <router-link to="/" class="link-btn">
+            <router-link to="/coming-soon" class="link-btn">
               Learn More
               <i class="ph-caret-right"></i>
             </router-link>
@@ -39,10 +39,10 @@
             <div class="icon">
               <img src="../../assets/images/icon/icon7.png" alt="icon">
             </div>
-            <h3><router-link to="/">Network Security</router-link></h3>
+            <h3><router-link to="/coming-soon">Network Security</router-link></h3>
             <p>Fortifying your assets with robust network security solutions, safeguarding against evolving cyber
               threats and vulnerabilities</p>
-            <router-link to="/" class="link-btn">
+            <router-link to="/coming-soon" class="link-btn">
               Learn More
               <i class="ph-caret-right"></i>
             </router-link>
@@ -53,10 +53,10 @@
             <div class="icon">
               <img src="../../assets/images/icon/icon8.png" alt="icon">
             </div>
-            <h3><router-link to="/">Data Management</router-link></h3>
+            <h3><router-link to="/coming-soon">Data Management</router-link></h3>
             <p>Optimizing your data handling with efficient storage, processing, and analysis, unlocking valuable insights
               to drive business decisions</p>
-            <router-link to="/" class="link-btn">
+            <router-link to="/coming-soon" class="link-btn">
               Learn More
               <i class="ph-caret-right"></i>
             </router-link>

@@ -28,15 +28,15 @@
           <div class="single-footer-widget pl-3">
             <h3>Quick links</h3>
             <ul class="quick-links">
-              <li><router-link to="/">GharbiDev</router-link></li>
-              <li><router-link to="/">Blog AWS</router-link></li>
-              <li><router-link to="/">SimiliSnap</router-link></li>
-              <li><router-link to="/">Health Care</router-link></li>
-              <li><router-link to="/">Property</router-link></li>
-              <li><router-link to="/">Big Data</router-link></li>
-              <li><router-link to="/">Distance Learning</router-link></li>
-              <li><router-link to="/">Chat Bot</router-link></li>
-              <li><router-link to="/">Software</router-link></li>
+              <li><router-link to="/coming-soon">GharbiDev</router-link></li>
+              <li><router-link to="/coming-soon">Blog AWS</router-link></li>
+              <li><router-link to="/coming-soon">SimiliSnap</router-link></li>
+              <li><router-link to="/coming-soon">Health Care</router-link></li>
+              <li><router-link to="/coming-soon">Property</router-link></li>
+              <li><router-link to="/coming-soon">Big Data</router-link></li>
+              <li><router-link to="/coming-soon">Distance Learning</router-link></li>
+              <li><router-link to="/coming-soon">Chat Bot</router-link></li>
+              <li><router-link to="/coming-soon">Software</router-link></li>
             </ul>
           </div>
         </div>

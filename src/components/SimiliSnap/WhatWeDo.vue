@@ -11,10 +11,10 @@
             <div class="icon">
               <img src="../../assets/images/icon/icon5.png" alt="icon">
             </div>
-            <h3><router-link to="/">Innovative Technology</router-link></h3>
+            <h3><router-link to="/coming-soon">Innovative Technology</router-link></h3>
             <p>Our team pioneers cutting-edge solutions, ensuring SimiliSnap stays at the forefront of image technology.
             </p>
-            <router-link to="/" class="link-btn">
+            <router-link to="/coming-soon" class="link-btn">
               Learn More
               <i class="ph-caret-right"></i>
             </router-link>
@@ -25,10 +25,10 @@
             <div class="icon">
               <img src="../../assets/images/icon/icon6.png" alt="icon">
             </div>
-            <h3><router-link to="/">User-Centric Design</router-link></h3>
+            <h3><router-link to="/coming-soon">User-Centric Design</router-link></h3>
             <p>We focus on intuitive user experiences, crafting interfaces that make photo management simple and
               enjoyable.</p>
-            <router-link to="/" class="link-btn">
+            <router-link to="/coming-soon" class="link-btn">
               Learn More
               <i class="ph-caret-right"></i>
             </router-link>
@@ -39,10 +39,10 @@
             <div class="icon">
               <img src="../../assets/images/icon/icon7.png" alt="icon">
             </div>
-            <h3><router-link to="/">Robust Security Measures</router-link></h3>
+            <h3><router-link to="/coming-soon">Robust Security Measures</router-link></h3>
             <p>Dedicated to protecting your memories, we implement the strongest security protocols for your peace of
               mind.</p>
-            <router-link to="/" class="link-btn">
+            <router-link to="/coming-soon" class="link-btn">
               Learn More
               <i class="ph-caret-right"></i>
             </router-link>
@@ -53,10 +53,10 @@
             <div class="icon">
               <img src="../../assets/images/icon/icon8.png" alt="icon">
             </div>
-            <h3><router-link to="/">Continuous Improvement</router-link></h3>
+            <h3><router-link to="/coming-soon">Continuous Improvement</router-link></h3>
             <p>Driven by feedback and innovation, our team constantly evolves SimiliSnap to meet and exceed user
               expectations.</p>
-            <router-link to="/" class="link-btn">
+            <router-link to="/coming-soon" class="link-btn">
               Learn More
               <i class="ph-caret-right"></i>
             </router-link>

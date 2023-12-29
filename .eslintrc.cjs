@@ -32,12 +32,12 @@ module.exports = {
     semi: ["error", "always"],
 
     // Enforce no space between function name and opening parenthesis
-    "space-before-function-paren": ["error", "never"],
+    "space-before-function-paren": ["error", "ignore"],
 
     // Enforce strings to be in double quotes
     quotes: ["error", "double"],
 
     "vue/multi-word-component-names": "off",
-    "vue/no-reserved-component-names": "off"
+    "vue/no-reserved-component-names": "off",
   }
 };

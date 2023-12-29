@@ -8,7 +8,7 @@
             <h1>Discover a New World in Your Gallery</h1>
             <p>Transform the way you manage your photos. SimiliSnap's advanced image-matching technology lets you sort,
               search, and sync your memories with unparalleled ease.</p>
-            <router-link to="/" class="btn-style-one red-light-color">
+            <router-link to="/coming-soon" class="btn-style-one red-light-color">
               Get Started Now
               <i class="ph-caret-right"></i>
             </router-link>

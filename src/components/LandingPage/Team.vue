@@ -11,7 +11,7 @@
               melds technical prowess with inventive thinking to bring unparalleled solutions to the table. At the heart
               of our ethos is a commitment to excellence; we strive to ensure that every aspect of our services not only
               meets but surpasses your expectations.</p>
-            <router-link to="/" class="btn-style-one red-light-color">Meet Our Team <i
+            <router-link to="/coming-soon" class="btn-style-one red-light-color">Meet Our Team <i
                 class="ph-caret-right"></i></router-link>
           </div>
         </div>

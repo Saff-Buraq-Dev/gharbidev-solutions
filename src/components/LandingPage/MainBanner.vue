@@ -8,7 +8,7 @@
             <h1>Secure & Innovative IT solutions for your buisness value</h1>
             <p>Discover the forefront of technology with our cutting-edge cloud and IT solutions. Transform your business
               landscape and elevate your potential with us.</p>
-            <router-link to="/" class="btn-style-one red-light-color">
+            <router-link to="/contact" class="btn-style-one red-light-color">
               Get In Touch Now
               <i class="ph-caret-right"></i>
             </router-link>

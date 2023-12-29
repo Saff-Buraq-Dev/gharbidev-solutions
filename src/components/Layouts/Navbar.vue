@@ -19,45 +19,45 @@
               <li class="nav-item"> <a href="#" class="dropdown-toggle nav-link">Home</a>
                 <ul class="dropdown-menu">
                   <li class="nav-item">
-                    <router-link to="/similisnap" class="nav-link">SimiliSnap</router-link>
+                    <router-link to="/coming-soon" class="nav-link">SimiliSnap</router-link>
                   </li>
                   <li class="nav-item">
-                    <router-link to="/" class="nav-link">Health Care</router-link>
+                    <router-link to="/coming-soon" class="nav-link">Health Care</router-link>
                   </li>
                   <li class="nav-item">
-                    <router-link to="/" class="nav-link">Property</router-link>
+                    <router-link to="/coming-soon" class="nav-link">Property</router-link>
                   </li>
                   <li class="nav-item">
-                    <router-link to="/" class="nav-link">Big Data</router-link>
+                    <router-link to="/coming-soon" class="nav-link">Big Data</router-link>
                   </li>
                   <li class="nav-item">
-                    <router-link to="/" class="nav-link">Distance
+                    <router-link to="/coming-soon" class="nav-link">Distance
                       Learning</router-link>
                   </li>
                   <li class="nav-item">
-                    <router-link to="/" class="nav-link">Chat Bot</router-link>
+                    <router-link to="/coming-soon" class="nav-link">Chat Bot</router-link>
                   </li>
                   <li class="nav-item">
-                    <router-link to="/" class="nav-link">Software</router-link>
+                    <router-link to="/coming-soon" class="nav-link">Software</router-link>
                   </li>
                 </ul>
               </li>
               <li class="nav-item"> <a href="#" class="dropdown-toggle nav-link">Features</a>
                 <ul class="dropdown-menu">
                   <li class="nav-item">
-                    <router-link to="/" class="nav-link">Features</router-link>
+                    <router-link to="/coming-soon" class="nav-link">Features</router-link>
                   </li>
                   <li class="nav-item">
-                    <router-link to="/" class="nav-link">Team</router-link>
+                    <router-link to="/coming-soon" class="nav-link">Team</router-link>
                   </li>
                   <li class="nav-item">
-                    <router-link to="/" class="nav-link">Pricing</router-link>
+                    <router-link to="/coming-soon" class="nav-link">Pricing</router-link>
                   </li>
                   <li class="nav-item">
-                    <router-link to="/" class="nav-link">Courses</router-link>
+                    <router-link to="/coming-soon" class="nav-link">Courses</router-link>
                   </li>
                   <li class="nav-item">
-                    <router-link to="/" class="nav-link">Courses
+                    <router-link to="/coming-soon" class="nav-link">Courses
                       Details</router-link>
                   </li>
                 </ul>
@@ -67,92 +67,92 @@
                   <li class="nav-item"> <a href="#" class="dropdown-toggle nav-link">About Us</a>
                     <ul class="dropdown-menu">
                       <li class="nav-item">
-                        <router-link to="/" class="nav-link">IT Startup</router-link>
+                        <router-link to="/coming-soon" class="nav-link">IT Startup</router-link>
                       </li>
                       <li class="nav-item">
-                        <router-link to="/" class="nav-link">Insurance</router-link>
+                        <router-link to="/coming-soon" class="nav-link">Insurance</router-link>
                       </li>
                     </ul>
                   </li>
                   <li class="nav-item">
-                    <router-link to="/" class="nav-link">Team</router-link>
+                    <router-link to="/coming-soon" class="nav-link">Team</router-link>
                   </li>
                   <li class="nav-item">
-                    <router-link to="/" class="nav-link">Testimonials</router-link>
+                    <router-link to="/coming-soon" class="nav-link">Testimonials</router-link>
                   </li>
                   <li class="nav-item"> <a href="#" class="dropdown-toggle nav-link">Courses</a>
                     <ul class="dropdown-menu">
                       <li class="nav-item">
-                        <router-link to="/" class="nav-link">Courses</router-link>
+                        <router-link to="/coming-soon" class="nav-link">Courses</router-link>
                       </li>
                       <li class="nav-item">
-                        <router-link to="/" class="nav-link">Courses
+                        <router-link to="/coming-soon" class="nav-link">Courses
                           Details</router-link>
                       </li>
                     </ul>
                   </li>
                   <li class="nav-item">
-                    <router-link to="/" class="nav-link">Pricing</router-link>
+                    <router-link to="/coming-soon" class="nav-link">Pricing</router-link>
                   </li>
                   <li class="nav-item">
-                    <router-link to="/" class="nav-link">Features</router-link>
+                    <router-link to="/coming-soon" class="nav-link">Features</router-link>
                   </li>
                   <li class="nav-item"> <a href="#" class="dropdown-toggle nav-link">Services</a>
                     <ul class="dropdown-menu">
                       <li class="nav-item">
-                        <router-link to="/" class="nav-link">Services Style 01</router-link>
+                        <router-link to="/coming-soon" class="nav-link">Services Style 01</router-link>
                       </li>
                       <li class="nav-item">
-                        <router-link to="/" class="nav-link">Services Style
+                        <router-link to="/coming-soon" class="nav-link">Services Style
                           02</router-link>
                       </li>
                       <li class="nav-item">
-                        <router-link to="/" class="nav-link">Services Style
+                        <router-link to="/coming-soon" class="nav-link">Services Style
                           03</router-link>
                       </li>
                       <li class="nav-item">
-                        <router-link to="/" class="nav-link">Services Style
+                        <router-link to="/coming-soon" class="nav-link">Services Style
                           04</router-link>
                       </li>
                       <li class="nav-item">
-                        <router-link to="/" class="nav-link">Services
+                        <router-link to="/coming-soon" class="nav-link">Services
                           Details</router-link>
                       </li>
                     </ul>
                   </li>
-                  <li class="nav-item"> <router-link to="/" class="nav-link">Login/Register</router-link>
+                  <li class="nav-item"> <router-link to="/coming-soon" class="nav-link">Login/Register</router-link>
                   </li>
                   <li class="nav-item">
-                    <router-link to="/" class="nav-link">Forgot Password</router-link>
+                    <router-link to="/coming-soon" class="nav-link">Forgot Password</router-link>
                   </li>
                   <li class="nav-item">
-                    <router-link to="/" class="nav-link">FAQ</router-link>
+                    <router-link to="/coming-soon" class="nav-link">FAQ</router-link>
                   </li>
                   <li class="nav-item">
-                    <router-link to="/" class="nav-link">Privacy Policy</router-link>
+                    <router-link to="/coming-soon" class="nav-link">Privacy Policy</router-link>
                   </li>
                   <li class="nav-item">
-                    <router-link to="/" class="nav-link">Terms &
+                    <router-link to="/coming-soon" class="nav-link">Terms &
                       Conditions</router-link>
                   </li>
                   <li class="nav-item">
-                    <router-link to="/" class="nav-link">Coming Soon</router-link>
+                    <router-link to="/coming-soon" class="nav-link">Coming Soon</router-link>
                   </li>
                   <li class="nav-item">
-                    <router-link to="/" class="nav-link">Thank You</router-link>
+                    <router-link to="/coming-soon" class="nav-link">Thank You</router-link>
                   </li>
                 </ul>
               </li>
               <li class="nav-item"> <a href="#" class="dropdown-toggle nav-link">Blog</a>
                 <ul class="dropdown-menu">
                   <li class="nav-item">
-                    <router-link to="/" class="nav-link">Tech</router-link>
+                    <router-link to="/coming-soon" class="nav-link">Tech</router-link>
                   </li>
                   <li class="nav-item">
-                    <router-link to="/" class="nav-link">AWS</router-link>
+                    <router-link to="/coming-soon" class="nav-link">AWS</router-link>
                   </li>
                   <li class="nav-item">
-                    <router-link to="/" class="nav-link">Software Architecture</router-link>
+                    <router-link to="/coming-soon" class="nav-link">Software Architecture</router-link>
                   </li>
                 </ul>
               </li>
@@ -160,13 +160,6 @@
                 <router-link to="/contact" class="nav-link">Contact</router-link>
               </li>
             </ul>
-          </div>
-
-          <div class="others-option">
-            <router-link to="/login" class="btn-style-one blue-dark-color">
-              Login
-              <i class="ph-caret-right"></i>
-            </router-link>
           </div>
         </nav>
       </div>

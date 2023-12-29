@@ -15,7 +15,7 @@
             <p>We offer tailored strategies and expert implementation services to transition your business to the cloud,
               ensuring scalability, security, and cost-effectiveness.
             </p>
-            <router-link to="/" class="link-btn">
+            <router-link to="/coming-soon" class="link-btn">
               Learn More
               <i class="ph-caret-right"></i>
             </router-link>
@@ -30,7 +30,7 @@
             <p>Every business is unique, and so are our solutions. We specialize in developing custom IT solutions that
               align with your specific business needs, driving efficiency and innovation for optimal performance
             </p>
-            <router-link to="/" class="link-btn">
+            <router-link to="/coming-soon" class="link-btn">
               Learn More
               <i class="ph-caret-right"></i>
             </router-link>
@@ -45,7 +45,7 @@
             <p>Leverage our deep industry knowledge to stay ahead in the game. Our consulting services encompass the
               latest technology trends, from AI to cybersecurity, helping you make informed decisions
             </p>
-            <router-link to="/" class="link-btn">
+            <router-link to="/coming-soon" class="link-btn">
               Learn More
               <i class="ph-caret-right"></i>
             </router-link>
@@ -60,7 +60,7 @@
             <p>Our commitment doesn’t end with deployment. We provide continuous support, keeping you up-to-date with the
               latest technological advancements
             </p>
-            <router-link to="/" class="link-btn">
+            <router-link to="/coming-soon" class="link-btn">
               Learn More
               <i class="ph-caret-right"></i>
             </router-link>

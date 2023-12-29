@@ -20,7 +20,7 @@ jobs:
 
     - name: Lint frontend code
       run: yarn lint
-    
+
   build:
     name: Build
     needs: test

@@ -10,7 +10,7 @@
               thinkers. United by a vision to revolutionize photo management, our team combines expertise with creativity
               to deliver an unmatched user experience. We're committed to excellence, ensuring that every feature of
               SimiliSnap not only meets but exceeds your expectations.</p>
-            <router-link to="/" class="btn-style-one red-light-color">Meet Our Team <i
+            <router-link to="/coming-soon" class="btn-style-one red-light-color">Meet Our Team <i
                 class="ph-caret-right"></i></router-link>
           </div>
         </div>

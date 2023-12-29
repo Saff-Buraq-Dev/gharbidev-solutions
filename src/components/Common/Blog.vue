@@ -9,15 +9,17 @@
         <div class="col-xl-4 col-lg-6 col-md-6" data-aos="fade-up" data-aos-duration="1200">
           <div class="single-blog-post">
             <div class="image">
-              <router-link to="/" class="d-block">
+              <a href="https://aws.gharbidev.com/2023/10/29/empowering-your-cloud-journey-a-curated-list-of-resources-to-master-aws/"
+                target="_blank" class="
+                d-block">
                 <img src="../../assets/images/blog/blog1.jpg" alt="blog-image">
-              </router-link>
+              </a>
             </div>
             <div class="content">
               <ul class="meta">
                 <li>
                   <i class="ph-tag"></i>
-                  <router-link to="/">Technology</router-link>
+                  <a href="#">Technology</a>
                 </li>
                 <li>
                   <i class="ph-calendar-check"></i>
@@ -25,23 +27,27 @@
                 </li>
               </ul>
               <h3>
-                <router-link to="/">Empowering Your Cloud Journey: A Curated List of Resources to Master AWS</router-link>
+                <a href="https://aws.gharbidev.com/2023/10/29/empowering-your-cloud-journey-a-curated-list-of-resources-to-master-aws/"
+                  target="_blank">Empowering
+                  Your Cloud Journey: A Curated List of Resources to Master AWS</a>
               </h3>
             </div>
           </div>
         </div>
+
         <div class="col-xl-4 col-lg-6 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="100">
           <div class="single-blog-post">
             <div class="image">
-              <router-link to="/" class="d-block">
+              <a href="https://aws.gharbidev.com/2023/11/09/gerer-lacces-securise-a-aws-avec-identity-and-access-management-iam/"
+                target="_blank" class="d-block">
                 <img src="../../assets/images/blog/blog2.jpg" alt="blog-image">
-              </router-link>
+              </a>
             </div>
             <div class="content">
               <ul class="meta">
                 <li>
                   <i class="ph-tag"></i>
-                  <router-link to="/">Security</router-link>
+                  <a to="#">Security</a>
                 </li>
                 <li>
                   <i class="ph-calendar-check"></i>
@@ -49,23 +55,27 @@
                 </li>
               </ul>
               <h3>
-                <router-link to="/">Gérer l’accès sécurisé à AWS avec Identity and Access Management (IAM)</router-link>
+                <a href="https://aws.gharbidev.com/2023/11/09/gerer-lacces-securise-a-aws-avec-identity-and-access-management-iam/"
+                  target="_blank">Gérer
+                  l’accès sécurisé à AWS avec Identity and Access Management (IAM)</a>
               </h3>
             </div>
           </div>
         </div>
+
         <div class="col-xl-4 col-lg-6 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200">
           <div class="single-blog-post">
             <div class="image">
-              <router-link to="/" class="d-block">
+              <a href="https://aws.gharbidev.com/2023/11/09/decouverte-dec2-votre-portail-vers-le-cloud-computing-avec-awsdecouverte-dec2/"
+                target="_blank" class="d-block">
                 <img src="../../assets/images/blog/blog3.jpg" alt="blog-image">
-              </router-link>
+              </a>
             </div>
             <div class="content">
               <ul class="meta">
                 <li>
                   <i class="ph-tag"></i>
-                  <router-link to="/">Tutorial</router-link>
+                  <a href="#">Tutorial</a>
                 </li>
                 <li>
                   <i class="ph-calendar-check"></i>
@@ -73,7 +83,9 @@
                 </li>
               </ul>
               <h3>
-                <router-link to="/">Découverte d’EC2: Votre Portail Vers le Cloud Computing avec AWS</router-link>
+                <a href="https://aws.gharbidev.com/2023/11/09/decouverte-dec2-votre-portail-vers-le-cloud-computing-avec-awsdecouverte-dec2/"
+                  target="_blank">Découverte
+                  d’EC2: Votre Portail Vers le Cloud Computing avec AWS</a>
               </h3>
             </div>
           </div>

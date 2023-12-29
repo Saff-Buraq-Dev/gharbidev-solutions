@@ -14,7 +14,7 @@
             <h3>Advanced Similarity Search</h3>
             <p>Instantly find matching photos in your vast gallery with our cutting-edge image similarity technology.
             </p>
-            <router-link to="/" class="link-btn">
+            <router-link to="/coming-soon" class="link-btn">
               Learn More
               <i class="ph-caret-right"></i>
             </router-link>
@@ -28,7 +28,7 @@
             <h3>Effortless Gallery Management</h3>
             <p>Organize, sort, and manage your photo collection with ease using our user-friendly interface.
             </p>
-            <router-link to="/" class="link-btn">
+            <router-link to="/coming-soon" class="link-btn">
               Learn More
               <i class="ph-caret-right"></i>
             </router-link>
@@ -43,7 +43,7 @@
             <p>Your memories are precious. Store your images safely in the cloud with
               top-tier encryption and privacy protection.
             </p>
-            <router-link to="/" class="link-btn">
+            <router-link to="/coming-soon" class="link-btn">
               Learn More
               <i class="ph-caret-right"></i>
             </router-link>
@@ -57,7 +57,7 @@
             <h3>Sharing and Collaboration</h3>
             <p>Easily share and collaborate on photo albums with friends and family, enhancing your shared memories.
             </p>
-            <router-link to="/" class="link-btn">
+            <router-link to="/coming-soon" class="link-btn">
               Learn More
               <i class="ph-caret-right"></i>
             </router-link>
