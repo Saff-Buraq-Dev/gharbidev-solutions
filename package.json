@@ -1,5 +1,5 @@
 {
-  "name": "similisnap-frontend",
+  "name": "gharbidev-solutions",
   "private": false,
   "version": "0.0.0",
   "type": "module",
@@ -37,7 +37,7 @@
     "vite": "^5.0.0"
   },
   "main": "src/main.js",
-  "repository": "https://github.com/Saff-Buraq-Dev/similarity-app",
+  "repository": "https://github.com/Saff-Buraq-Dev/gharbidev-solutions",
   "author": "Safouene Gharbi",
   "license": "MIT"
 }
