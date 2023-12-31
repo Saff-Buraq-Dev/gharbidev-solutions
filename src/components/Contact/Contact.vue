@@ -80,8 +80,8 @@
                   <div class="form-check">
                     <input type="checkbox" class="form-check-input" id="checkme" v-model="form.termsAccepted">
                     <label class="form-check-label" for="checkme">
-                      Accept <router-link to="/coming-soon">Terms of Services</router-link> and
-                      <router-link to="/coming-soon">Privacy Policy</router-link>
+                      Accept <router-link to="/terms-and-services">Terms of Services</router-link> and
+                      <router-link to="/privacy-policy">Privacy Policy</router-link>
                     </label>
                   </div>
                 </div>
